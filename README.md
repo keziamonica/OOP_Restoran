@@ -1,2 +1,2 @@
 # OOP_Restoran
-blm ada
+Edan Restoran adalah restoran yang menyediakan masakan indonesia dan masakan western.
